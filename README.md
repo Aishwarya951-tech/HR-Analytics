@@ -19,3 +19,4 @@ The goal is to identify trends, promote inclusivity, and support data-driven HR 
 * Talent Distribution Analysis
 
 
+![image](https://github.com/user-attachments/assets/bcfd2638-67a3-407c-8b51-edbde8137c28)
